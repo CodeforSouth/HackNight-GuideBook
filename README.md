@@ -49,6 +49,19 @@ You follow these simple steps to a succesful hack night.
 
   Ask if they are any announcements or project updates.
 
-5. New People
+5. **New People**
       - [Join Code For Miami Slack](cfm-inviter.herokuapp.com)
       - [Code For Miami Getting Started](http://codefor.miami/get-started-with-civic-hacking) 
+
+6. **Hack**
+  
+  Civic Hack Night successfully started.
+
+7. End 
+
+  It's 8:30pm Civic Hack Night is complete.
+  Rope people into clean up, The Lab Miami gives us free space 
+  so lets mind our manners and leave it cleaner than we found it.
+  Exit through side door make sure it closes behind you.
+  
+  Grab a cookie or a drink or both. Congratulations.
