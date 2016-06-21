@@ -17,15 +17,38 @@ You follow these simple steps to a succesful hack night.
   and sometimes changes in space availability happen.
   Check with the lab staff to ensure we have an area to meet in.
 
-3. Pizza
+3. **Pizza**
   
     If this is a hack night chances are they will be pizza on the way.
     sign for it give a 3 dollar tip.
 
-    If they need id verification message the person on slack for an ETA. 
+    If they need ID verification, message the person on slack for an ETA. 
   
 4. **Introduction**
- 
- - New People
-    1. [Join Code For Miami Slack](cfm-inviter.herokuapp.com)
-    - 
+
+  Grab a white board write wifi password on it. 
+  Write slack channel invite url `http://cfm-invite.herokuapp.com`
+  and then begin introductions.
+  
+  Here's a handy script to follow.
+    ```
+    Hi, welcome to Code For Miami / Open Hack. We are going to start with some short introductions.
+    
+    If you are regular what's your name role and project. 
+    If you are new just your name and new member.
+    
+    ```
+    
+    Go clockwise starting with yourself.
+    
+    ```
+    
+    I'm [ Name ],[ Role ] on [ Project Name ]
+    
+    ```
+
+  Ask if they are any announcements or project updates.
+
+5. New People
+      - [Join Code For Miami Slack](cfm-inviter.herokuapp.com)
+      - [Code For Miami Getting Started](http://codefor.miami/get-started-with-civic-hacking) 
