@@ -57,7 +57,7 @@ You follow these simple steps to a succesful hack night.
   
   Civic Hack Night successfully started.
 
-7. End 
+7. **End**
 
   It's 8:30pm Civic Hack Night is complete.
   Rope people into clean up, The Lab Miami gives us free space 
