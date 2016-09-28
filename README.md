@@ -3,7 +3,7 @@ A Guide For How To Run A Civic Hack Night
 
 
 What do you do when you find yourself at Civic Hack Night
-and they are no core members around? 
+and there are no core members around? 
 
 You follow these simple steps to a succesful hack night.
 
@@ -60,7 +60,7 @@ You follow these simple steps to a succesful hack night.
 7. **End**
 
   It's 8:30pm Civic Hack Night is complete.
-  Rope people into clean up, The Lab Miami gives us free space 
+  Rope people into clean up; CIC Miami gives us free space 
   so lets mind our manners and leave it cleaner than we found it.
   Exit through side door make sure it closes behind you.
   
