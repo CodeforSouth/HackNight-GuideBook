@@ -1,30 +1,50 @@
-# Don't Panic
-A Guide For How To Run A Civic Hack Night
+# The Code for Miami Civic Hack Night Guide Book
+
+Contributors: Chris Scott, Ernie Hsiung
+
+## Preparing for Future Hack Nights
+
+Some MeetUps such as Maptime Miami will require speakers with presentations, 
+other "special edition" hack nights will have special guests that want to
+do a whole shindig. In those cases we will need a much bigger room inside the
+CIC. 
+
+For that, you will need to contact Sally Guzik (guzik@cictr.com). Please 
+CC the co-captains if you do this (Cristina and Ernie).
 
 
-What do you do when you find yourself at Civic Hack Night
-and there are no core members around? 
+## Running the Hack Night
 
-You follow these simple steps to a succesful hack night.
+What do you do when you find yourself at Civic Hack Night and there are no 
+core members around? You follow these simple steps to a succesful hack night.
 
 1. **Check Slack**
 
   Message a core member on the Code for Miami slack, and someone will get back to you. 
 
-2. **Check with Lab Staff to verify space**
-  
-  We are not exactly guranteed space on Monday Nights 
-  and sometimes changes in space availability happen.
-  Check with the lab staff to ensure we have an area to meet in.
+2. **Check with CIC Miami Staff to verify space**
+   We have moved from The LAB Miami to CIC Miami, which is more structured 
+   on how meeting space is reserved. For regular Hack Nights, we should 
+   always have The Little Haiti Conference room.
+   
+   If there is a presentation, advance preperation is strongly suggested. 
 
-3. **Pizza**
+3. **Wayfinding (Set up Signs)**
+   It's not obvious how to get to the Little Haiti room. We Make signs for 
+   when people get off the elevator as well as a sign for the door 
+   since people often pass right by it. This is the sign (19MB TIFF file) 
+   Cristina prints out and sticks in front of the elevators that will be
+   shared on this repo; Cristina usually tapes the sign right by the sign
+   saying "Conference Rooms C & D."
+   
+4. **Pizza**
   
-    If this is a hack night chances are they will be pizza on the way.
-    sign for it give a 3 dollar tip.
+  If this is a hack night chances are there will be pizza on the way.
+  Sign for it give a 3 dollar tip.
 
-    If they need ID verification, message the person on slack for an ETA. 
+  If they need ID verification, message the person on slack for an ETA. 
   
-4. **Introduction**
+5. **Introduction**
 
   Grab a white board write wifi password on it. 
   Write slack channel invite url `http://cfm-invite.herokuapp.com`
@@ -49,15 +69,15 @@ You follow these simple steps to a succesful hack night.
 
   Ask if they are any announcements or project updates.
 
-5. **New People**
+6. **New People**
       - [Join Code For Miami Slack](cfm-inviter.herokuapp.com)
       - [Code For Miami Getting Started](http://codefor.miami/get-started-with-civic-hacking) 
 
-6. **Hack**
+7. **Hack**
   
   Civic Hack Night successfully started.
 
-7. **End**
+8. **End**
 
   It's 8:30pm Civic Hack Night is complete.
   Rope people into clean up; CIC Miami gives us free space 
