@@ -23,6 +23,7 @@ core members around? You follow these simple steps to a succesful hack night.
   Message a core member on the Code for Miami slack, and someone will get back to you. 
 
 2. **Check with CIC Miami Staff to verify space**
+   
    We have moved from The LAB Miami to CIC Miami, which is more structured 
    on how meeting space is reserved. For regular Hack Nights, we should 
    always have The Little Haiti Conference room.
@@ -30,6 +31,7 @@ core members around? You follow these simple steps to a succesful hack night.
    If there is a presentation, advance preperation is strongly suggested. 
 
 3. **Wayfinding (Set up Signs)**
+   
    It's not obvious how to get to the Little Haiti room. We Make signs for 
    when people get off the elevator as well as a sign for the door 
    since people often pass right by it. This is the sign (19MB TIFF file) 
