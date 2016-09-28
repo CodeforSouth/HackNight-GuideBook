@@ -9,7 +9,7 @@ You follow these simple steps to a succesful hack night.
 
 1. **Check Slack**
 
-  Message a core member on slack some one will get back to you. 
+  Message a core member on the Code for Miami slack, and someone will get back to you. 
 
 2. **Check with Lab Staff to verify space**
   
