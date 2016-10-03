@@ -41,8 +41,11 @@ core members around? You follow these simple steps to a succesful hack night.
    
 4. **Pizza**
   
-  If this is a hack night chances are there will be pizza on the way.
-  Sign for it give a 3 dollar tip.
+  If you are ordering pizza: have it delivered to CIC, 3rd floor. Let the
+  lobby security know so they can send them on their way.
+  
+  If you know pizza is coming but didn't order it: chances are there will 
+  be pizza on the way. Sign for it give a 3 dollar tip.
 
   If they need ID verification, message the person on slack for an ETA. 
   
