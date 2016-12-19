@@ -26,7 +26,7 @@ core members around? You follow these simple steps to a succesful hack night.
    
    We have moved from The LAB Miami to CIC Miami, which is more structured 
    on how meeting space is reserved. For regular Hack Nights, we should 
-   always have The Little Haiti Conference room.
+   always have the sixth floor Amazon Conference room.
    
    If there is a presentation, advance preperation is strongly suggested. 
 
