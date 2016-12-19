@@ -39,7 +39,7 @@ core members around? You follow these simple steps to a succesful hack night.
    
 4. **Pizza**
   
-  If you are ordering pizza: have it delivered to CIC, 3rd floor. Let the
+  If you are ordering pizza: have it delivered to CIC, 6th floor. Let the
   lobby security know so they can send them on their way.
   
   If you know pizza is coming but didn't order it: chances are there will 
