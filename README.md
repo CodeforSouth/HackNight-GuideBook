@@ -30,14 +30,12 @@ core members around? You follow these simple steps to a succesful hack night.
    
    If there is a presentation, advance preperation is strongly suggested. 
 
-3. **Wayfinding (Set up Signs)**
+3. **Wayfinding**
    
-   It's not obvious how to get to the Little Haiti room. We Make signs for 
-   when people get off the elevator as well as a sign for the door 
-   since people often pass right by it. This is the sign (19MB TIFF file) 
-   Cristina prints out and sticks in front of the elevators that will be
-   shared on this repo; Cristina usually tapes the sign right by the sign
-   saying "Conference Rooms C & D."
+   We are now meeting at the much more obvious Amazon meeting room on the
+   sixth floor. There should be maps around the lobby. And if nothing else,
+   if you want to branch off you can work in the cafe space right behind
+   the reception area!
    
 4. **Pizza**
   
@@ -77,6 +75,7 @@ core members around? You follow these simple steps to a succesful hack night.
 6. **New People**
       - [Join Code For Miami Slack](cfm-inviter.herokuapp.com)
       - [Code For Miami Getting Started](http://codefor.miami/get-started-with-civic-hacking) 
+      - [Code for Miami Loomio](https://www.loomio.org/g/Hnu2T5VP/code-for-miami) - experimental website where we are making group decisions
 
 7. **Hack**
   
