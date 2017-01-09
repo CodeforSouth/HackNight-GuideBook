@@ -10,7 +10,7 @@ do a whole shindig. In those cases we will need a much bigger room inside the
 CIC. 
 
 For that, you will need to contact Sally Guzik (guzik@cictr.com). Please 
-CC the co-captains if you do this (Cristina and Ernie).
+CC the co-captains if you do this (Julie, Danielle, Chris).
 
 
 ## Running the Hack Night
